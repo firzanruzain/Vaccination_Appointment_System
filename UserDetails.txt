@@ -1,0 +1,22 @@
+username11,password11,Muhammad Abu Bakar,20,030121151412,0112551541,high,Y,4
+master,master,Ali bin Abdullah,25,961212151485,0112554578,low,N,1
+username1,password1,Jack Tan,18,010212514563,0112554121,medium,N,2
+Razlan,razlan_pass,Razlan Bin Jazlan,24,970604144569,0165238985,low,N,2
+Michelle,michelle_pass,Michelle Ng Low Yi,35,860523058569,0195256452,medium,Y,5
+Breaviin,breaviin_pass,Breaviin A/L Chandran,45,760815036521,0135256235,high,N,4
+Shauki,shauki_pass,Muhammad Shauki Bin Badrul,18,020605141569,0165022532,low,N,2
+Kirija,kirija_pass,Kirija A/P Inderachan,60,610426085898,0132369875,high,N,4
+Puteri,puteri_pass,Puteri Sarah Binti Razman,27,940523065232,0195254563,low,Y,5
+Simon,simon_pass,Simon Liew Ho Ming,36,850101141823,0125236402,medium,N,2
+Euphie,euphie_pass,Euphie Alexandra Schmeichel,21,000516141236,0132541789,medium,N,2
+Iman,iman_pass,Iman Muhaimin Bin Abu,42,790229014563,0123456789,low,Y,5
+Vinothan,vinothan_pass,Vinothan A/L Supramaniam,25,960328065897,0155236412,medium,Y,5
+George,george_pass,George William Russell,22,990412030256,0135256565,low,N,2
+Zulaika,zulaika_pass,Siti Zulaika Binti Asyraff,19,020304141233,0165258989,high,N,4
+Fateh,fateh_pass,Fateh Bin Jalil,31,900303101447,0125455353,medium,N,2
+Ranjit,ranjit_pass,Ranjit Singh,38,830912084123,0145236541,medium,Y,5
+Iqram,iqram_pass,Muhammad Iqram Bin Idham,20,011212030693,0189754123,low,N,2
+Hailly,hailly_pass,Hailly Ignatius Yew,70,510623068596,0154529317,medium,N,3
+Aneesha,aneesha_pass,Aneesha A/P Subramaniam,47,740505030623,0152367412,low,Y,5
+Dexter,dexter_pass,Dexter Lim Ching Hu,54,670405051456,0136547893,high,N,4
+Nurarya,nuraya_pass,Nurarya Binti Saadon,19,020303105232,0123536262,low,N,2

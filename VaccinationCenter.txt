@@ -1,0 +1,9 @@
+mmu,500
+bangi,1000
+klcc,800
+shah alam,100
+puncak alam,500
+desa pandan,300
+kuala lumpur,400
+negeri sembilan,600
+kelantan,800
